@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T06:34:35 PST" name="Default suite" finished-at="2022-01-17T06:37:03 PST" duration-ms="147984">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T06:34:35 PST" name="Default test" finished-at="2022-01-17T06:37:03 PST" duration-ms="147984">
+      <class name="com.mindtree.runner.runnerClass">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:34:35 PST" name="initializeDriver" finished-at="2022-01-17T06:35:04 PST" duration-ms="29133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="validateTitle(java.lang.String)[pri:1, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:35:05 PST" name="validateTitle" data-provider="getTitle" finished-at="2022-01-17T06:35:05 PST" duration-ms="899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method signature="LogIn(java.lang.String, java.lang.String)[pri:2, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:35:06 PST" name="LogIn" data-provider="getData" finished-at="2022-01-17T06:35:19 PST" duration-ms="13698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[81srajesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method signature="Search(java.lang.String, java.lang.String)[pri:3, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:35:19 PST" name="Search" data-provider="getData1" finished-at="2022-01-17T06:35:37 PST" duration-ms="17342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Madurai, Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chennai Central, Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Round(java.lang.String)[pri:4, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:35:37 PST" name="Round" data-provider="getData4" finished-at="2022-01-17T06:35:44 PST" duration-ms="7054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Round -->
+        <test-method signature="LocalSearch(java.lang.String)[pri:5, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:35:44 PST" name="LocalSearch" data-provider="getData2" finished-at="2022-01-17T06:35:54 PST" duration-ms="10232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Madurai, Tamil Nadu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocalSearch -->
+        <test-method signature="AirSearch(java.lang.String, java.lang.String)[pri:6, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:35:54 PST" name="AirSearch" data-provider="getData3" finished-at="2022-01-17T06:36:10 PST" duration-ms="15692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chennai, Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AirSearch -->
+        <test-method signature="cropDetailSubmit(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:7, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:36:10 PST" name="cropDetailSubmit" data-provider="getCopData" finished-at="2022-01-17T06:36:31 PST" duration-ms="21785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajesh S]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mindtree]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[demo@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8658865825]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cropDetailSubmit -->
+        <test-method signature="Facebook(java.lang.String)[pri:8, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:36:31 PST" name="Facebook" data-provider="getData6" finished-at="2022-01-17T06:36:41 PST" duration-ms="9771" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Savaari Car Rentals - Home | Facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method signature="PlaystoreVerify(java.lang.String)[pri:9, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:36:41 PST" name="PlaystoreVerify" data-provider="getData7" finished-at="2022-01-17T06:36:58 PST" duration-ms="17187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Savaari - Outstation Car Rental & Airport Taxi App - Apps on Google Play]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaystoreVerify -->
+        <test-method signature="Signout()[pri:10, instance:com.mindtree.runner.runnerClass@6b53bcc2]" started-at="2022-01-17T06:36:59 PST" name="Signout" finished-at="2022-01-17T06:37:03 PST" duration-ms="4725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signout -->
+      </class> <!-- com.mindtree.runner.runnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

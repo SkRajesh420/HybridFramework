@@ -1,0 +1,51 @@
+2022-01-17 06:35:01,988  INFO [main] runnerClass:14 - URL Opened
+2022-01-17 06:35:05,165  INFO [main] runnerClass:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-17 06:35:08,914  INFO [main] runnerClass:14 - Sign In Button is clicked in page Home Page
+2022-01-17 06:35:15,722  INFO [main] runnerClass:14 - Email field is send in page Account Log in
+2022-01-17 06:35:16,744  INFO [main] runnerClass:14 - password field is send in page Account Log in
+2022-01-17 06:35:17,892  INFO [main] runnerClass:14 - sign in button is clicked in page Account Log in
+2022-01-17 06:35:19,072  INFO [main] runnerClass:14 - Successfully logged in
+2022-01-17 06:35:20,296  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-17 06:35:21,286  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-17 06:35:22,273  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-17 06:35:23,584  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-17 06:35:29,607  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-17 06:35:31,056  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-17 06:35:33,306  INFO [main] runnerClass:14 - Successfully verified
+2022-01-17 06:35:36,451  INFO [main] runnerClass:14 - Home button is clicked in page Search Page
+2022-01-17 06:35:37,690  INFO [main] runnerClass:14 - Round Trip Button is clicked in page Home Page
+2022-01-17 06:35:38,902  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-17 06:35:40,177  INFO [main] runnerClass:14 - Successfully verified
+2022-01-17 06:35:43,491  INFO [main] runnerClass:14 - Home button is clicked in page Search Page
+2022-01-17 06:35:44,750  INFO [main] runnerClass:14 - Local Button is clicked in page Home Page
+2022-01-17 06:35:45,707  INFO [main] runnerClass:14 - clear Button is clicked in page Local Page
+2022-01-17 06:35:46,833  INFO [main] runnerClass:14 - From Button is clicked in page Local Page
+2022-01-17 06:35:47,830  INFO [main] runnerClass:14 - password field is send in page Account Log in
+2022-01-17 06:35:49,260  INFO [main] runnerClass:14 - Search Button is clicked in page Local Page
+2022-01-17 06:35:50,573  INFO [main] runnerClass:14 - Successfully verified
+2022-01-17 06:35:53,800  INFO [main] runnerClass:14 - Home button is clicked in page Search Page
+2022-01-17 06:35:55,171  INFO [main] runnerClass:14 - Airport Button is clicked in page Local Page
+2022-01-17 06:35:56,252  INFO [main] runnerClass:14 - From Bar is clicked in page Airport Page
+2022-01-17 06:35:57,151  INFO [main] runnerClass:14 - From Bar is clicked in page Airport Page
+2022-01-17 06:35:58,170  INFO [main] runnerClass:14 - From Baar is send in page Airport Page
+2022-01-17 06:35:59,129  INFO [main] runnerClass:14 - From Bar is clicked in page Airport Page
+2022-01-17 06:36:00,565  INFO [main] runnerClass:14 - drop bar is clicked in page Airport Page
+2022-01-17 06:36:01,448  INFO [main] runnerClass:14 - drop Baar is send in page Airport Page
+2022-01-17 06:36:03,625  INFO [main] runnerClass:14 - drop bar is clicked in page Airport Page
+2022-01-17 06:36:04,803  INFO [main] runnerClass:14 - Select button is clicked in page Airport Page
+2022-01-17 06:36:06,146  INFO [main] runnerClass:14 - Successfully verified
+2022-01-17 06:36:09,551  INFO [main] runnerClass:14 - Home button is clicked in page Search Page
+2022-01-17 06:36:10,874  INFO [main] runnerClass:14 - Corporate Button is clicked in page Home Page
+2022-01-17 06:36:17,128  INFO [main] runnerClass:14 - demo@gmail.com is send in page Rajesh S
+2022-01-17 06:36:18,108  INFO [main] runnerClass:14 - demo@gmail.com is send in page Rajesh S
+2022-01-17 06:36:19,196  INFO [main] runnerClass:14 - demo@gmail.com is send in page Rajesh S
+2022-01-17 06:36:20,349  INFO [main] runnerClass:14 - demo@gmail.com is send in page Rajesh S
+2022-01-17 06:36:24,048  INFO [main] runnerClass:14 - Submit Button is clicked in page Corporate page
+2022-01-17 06:36:29,913  INFO [main] runnerClass:14 - Successfully verified
+2022-01-17 06:36:32,746  INFO [main] runnerClass:14 - Facebook icon is clicked in page Home Page
+2022-01-17 06:36:39,539  INFO [main] runnerClass:14 - Page opend with title Savaari Car Rentals - Home | Facebook
+2022-01-17 06:36:42,784  INFO [main] runnerClass:14 - play store downlad app is clicked in page Home Page
+2022-01-17 06:36:53,156  INFO [main] runnerClass:14 - Page opend with title Savaari - Outstation Car Rental & Airport Taxi App - Apps on Google Play
+2022-01-17 06:36:59,660  INFO [main] runnerClass:14 - Profile Icon is clicked in page Home Page
+2022-01-17 06:37:00,450  INFO [main] runnerClass:14 - signout Button is clicked in page Home Page
+2022-01-17 06:37:02,868  INFO [main] runnerClass:14 - Successfully verified
